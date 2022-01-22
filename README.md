@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Yashashree Chandak <img src = "https://sdk.bitmoji.com/render/panel/959f0f42-4680-4c0f-88dc-071d1f02ed81-22738511-634c-4c96-bf8e-a5df298dd0a6-v1.png?transparent=1&palette=1" width="50" height="50/> </h1>
   <br /><br />
-<h3 align="center"><br />A ML enthusiast, loves to solve maths problems! <![Alt text](https://github.com/Yashashree304/Yashashree304/blob/main/6HY.gif)></h3>
+<h3 align="center"><br />A ML enthusiast, loves to solve maths problems! </h3>
 
 - 🔭 I’m currently **a Computer Science undergrad at PICT**
 
