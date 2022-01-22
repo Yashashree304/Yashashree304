@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yashashree Chandak</h1>
-<h3 align="center">A ML enthusiast, loves to solve maths problems!</h3>
+<h1 align="center"> Hi 👋, I'm Yashashree Chandak <img src = "https://sdk.bitmoji.com/render/panel/959f0f42-4680-4c0f-88dc-071d1f02ed81-22738511-634c-4c96-bf8e-a5df298dd0a6-v1.png?transparent=1&palette=1" width="50" height="50/> </h1>
+  <br /><br />
+<h3 align="center"><br />A ML enthusiast, loves to solve maths problems!< ![Alt text](6HY.gif) width="50" height="50"/></h3>
 
 - 🔭 I’m currently **a Computer Science undergrad at PICT**
 
@@ -23,5 +24,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashashree304&show_icons=true&locale=en&layout=compact" alt="yashashree304" /></p>
 <br /> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashashree304&show_icons=true&locale=en" alt="yashashree304" /></p>
+<br /><p><br /><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashashree304&show_icons=true&locale=en" alt="yashashree304" /></p>
 
